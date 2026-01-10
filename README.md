@@ -50,10 +50,10 @@ This project strengthened my understanding of data cleaning, analysis, and visua
 
 ---
 
-## 🔗 Author
+#### 🔗 Author
 BS Computer Science Student  
 Muhammad Abdul Rehman
 =======
-# student-performance-analysis
+#### student-performance-analysis
 Beginner data analysis project using Python, Pandas, NumPy, and Matplotlib
 >>>>>>> 94ff863a2a13d242bba59d4f81d75d76f775ed9f
