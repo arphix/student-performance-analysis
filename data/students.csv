@@ -1,0 +1,17 @@
+student_id,name,gender,subject,marks,attendance
+1,Ali,Male,Math,85,92
+2,Sara,Female,Math,78,88
+3,Ahmed,Male,Math,90,95
+4,Ayesha,Female,Math,66,80
+5,Hassan,Male,CS,92,96
+6,Mariam,Female,CS,88,94
+7,Usman,Male,CS,75,85
+8,Hina,Female,CS,81,90
+9,Ali,Male,Physics,70,82
+10,Sara,Female,Physics,76,87
+11,Ahmed,Male,Physics,89,93
+12,Ayesha,Female,Physics,60,78
+13,Hassan,Male,English,83,91
+14,Mariam,Female,English,90,97
+15,Usman,Male,English,68,84
+16,Hina,Female,English,74,86
